@@ -1,14 +1,17 @@
-FROM mindhochschulnetzwerk/php-base
+FROM trafex/php-nginx:3.1.0
 
 LABEL Maintainer="Henrik Gebauer <code@henrik-gebauer.de>" \
       Description="mind-hochschul-netzwerk.de"
 
-COPY app/ /var/www/
+HEALTHCHECK --interval=10s CMD curl --silent --fail http://127.0.0.1:8080/fpm-ping
 
-RUN set -ex \
-  && apk --no-cache add \
-    php7-session \
-    php7-curl \
-  && mkdir /var/www/vendor && chown www-data:www-data /var/www/vendor \
-  && su www-data -s /bin/sh -c "composer install -d /var/www --optimize-autoloader --no-dev --no-interaction --no-progress --no-cache" \
-  && chown -R nobody:nobody /var/www
+COPY --from=composer /usr/bin/composer /usr/bin/composer
+
+USER root
+RUN chown nobody:nobody /var/www
+USER nobody
+
+COPY config/nginx/ /etc/nginx
+COPY --chown=nobody app/ /var/www
+
+RUN composer install -d "/var/www/" --optimize-autoloader --no-dev --no-interaction --no-progress --no-cache
