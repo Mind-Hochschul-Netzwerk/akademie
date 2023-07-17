@@ -54,7 +54,7 @@ Am Mannheimer Hauptbahnhof halten die großen Fernzüge und Fernbuslinien. Er li
 Nein. Hunde sind in der Jugendherberge nicht erlaubt.
 
 ### <a name="kinder"></a> Kann ich meine Kinder mitbringen?
-Ihr dürft gerne eure Kinder mitbringen. Kinder von null bis sechs Jahren können an der Akademie kostenlos teilnehmen. Für sie musst du also nur eine Unterkunft buchen, z. B. als Babyzustellbett in deinem JH-Zimmer. Für die Anmeldung von älteren, also bereits schulpflichtigen Kindern wende dich bitte an die [Teilnehmendenbetreuung](#kontakt), um eine individuelle Lösung zu finden. Es gibt eine kooperative Betreuung und einen eigenen Raum (Kinderlounge) für Kinder bis etwa zehn Jahre. Daniel Uthoff, Vater von drei Kindern, kümmert sich um die Vernetzung aller Eltern. Wenn du Interesse habt, dein Kind in der Betreuung unter- und dich selbst einzubringen, melde dich bei Daniel [per Mail](mailto:mind-akademie.de@daniel.uthoff.eu) oder unter 01 74-3 13 83 24.
+Ihr dürft gerne eure Kinder mitbringen. Kinder bis sechs Jahre, die kein eigenes Bett brauchen, können kostenlos teilnehmen. Du kannst sie bei deiner Buchung mit anmelden. Kinder bis 13 Jahre zahlen nur die Unterkunft, Kinder ab 14 Jahren zahlen einen ermäßigten Preis. Es gibt eine kooperative Betreuung und einen eigenen Raum (Kinderlounge) für Kinder bis etwa zehn Jahre. Daniel Uthoff, Vater von drei Kindern, kümmert sich um die Vernetzung aller Eltern. Wenn du Interesse hast, dein Kind in der Betreuung unter- und dich selbst einzubringen, melde dich bei Daniel [per Mail](mailto:mind-akademie.de@daniel.uthoff.eu).
  
 Du kannst deine Kinder auch in Vorträge mitnehmen, sofern der Referent oder die Referentin damit einverstanden ist und dein Kind sich ruhig verhält. Wenn das nicht klappt, bitten wir dich auch aus Rücksicht auf die anderen Teilnehmer:innen den Vortrag wieder zu verlassen.
  
@@ -70,14 +70,14 @@ Es macht es uns die Planung aber wesentlich einfacher, wenn du uns Bescheid gibs
 Die Anmeldung beginnt Mitte Juli. Mitglieder des [MHNs](https://mind-hochschul-netzwerk.de/index.php/home/) erhalten über einen Sondernewsletter Bescheid. Darüber hinaus wird die Anmeldung in der Regel auch über verschiedene Kanäle bei [Mensa in Deutschland e. V.](https://www.mensa.de/) und andere Vereine bekannt gegeben. 
 
 ### <a name="f14"></a> Gibt es eine Teilnahmebescheinigung?
-Ja, eine Teilnahmebescheinigung mit kurzer Programmbeschreibung erhältst du per E-Mail.
+Ja, eine Teilnahmebescheinigung mit kurzer Programmbeschreibung erhältst du per E-Mail nach der Akademie.
 
 ## Teilnahmegebühren
 ### <a name="teilnahmegebuehr"></a> Was ist in der Teilnahmegebühr alles enthalten?
 Natürlich das Programm mit allen Vorträgen und Workshops, außerdem (gegen eine kleinen Aufpreis) auch Übernachtung und Verpflegung in der Jugendherberge. Alkoholfreie Getränke sowie Knabbereien, Schokolade, Obst und dergleichen gibt es für alle Teilnehmenden kostenlos. 
 
 ### <a name="extras"></a> Brauche ich darüber hinaus noch Geld?
-Nur, wenn du ein Glas Wein oder Bier an unserer Theke trinken möchtest oder an einem Programmpunkt im Rahmenprogramm teilnimmst, für den ein zusätzlicher Unkostenbeitrag anfällt (zum Beispiel Museumseintritt). Und du musst natürlich deine [Anreise](#anreise) selbst bezahlen.
+Nur, wenn du Cola oder Bier an unserer Theke oder Wein von der Jugendherberge trinken möchtest oder an einem Programmpunkt im Rahmenprogramm teilnimmst, für den ein zusätzlicher Unkostenbeitrag anfällt (zum Beispiel Museumseintritt). Und du musst natürlich deine [Anreise](#anreise) selbst bezahlen.
 
 ### <a name="f12"></a> Kann ich auch einfach so für einen einzelnen Vortrag vorbeischauen, ohne mich anzumelden?
 Nein. Wenn du an der Mind-Akademie teilnehmen möchtest, auch wenn das nur für einen Vortrag ist, dann musst du dich vorher anmelden und den gesamten Teilnahmebeitrag bezahlen. Nur die Mitgliederversammlung ist natürlich offen für alle MHN-Mitglieder, auch wenn sie nicht an der Akademie teilnehmen. Solltest du an der Akademie teilnehmen und nicht angemeldet sein, musst du den gesamten Teilnahmebeitrag und Bearbeitungskosten nachzahlen. Wir gehen hier aus Fairness gegenüber allen zahlenden Teilnehmenden sehr strikt vor.
@@ -91,15 +91,15 @@ Ja, alle Teilnehmer:innen bekommen eine Rechnung. Die Rechnung wird per E-Mail v
 
 ## Programm
 ### <a name="programm"></a> Wo finde ich Informationen über die Vorträge und Workshops? Muss ich mich für die einzelnen Vorträge und Workshops anmelden?
-Abstracts und Kurzbiographien unserer Referentinnen und Referenten sowie den Programmplan mit Räumen und Zeiten findest du immer frühstens etwa ab Ostern unter [„Programm“ auf dieser Website.](https://www.mind-akademie.de/programm.php) Danach füllt die Seite sich bis zur Akademie sukzessive. Im MHN-Newsletter gibt es in der Regels chon viel früher ein paar Programmvorschauen.
+Abstracts und Kurzbiographien unserer Referentinnen und Referenten sowie den Programmplan mit Räumen und Zeiten findest du immer frühstens etwa ab Ostern unter [„Programm“ auf dieser Website.](https://www.mind-akademie.de/programm.php) Danach füllt die Seite sich bis zur Akademie sukzessive. Im MHN-Newsletter gibt es in der Regel schon viel früher ein paar Programmvorschauen.
 Aus verschiedenen Gründen kann es bis zuletzt, also auch während der Akademie, immer noch zu Verschiebungen oder Ausfällen kommen, die auf dem großen Programmplan im Foyer der Jugendherberge bekanntgegeben werden.
 Während du zu den Vorträgen einfach spontan gehen kannst, solange noch Platz im Raum ist, musst du dich für die Workshops anmelden. Informationen zur Workshopanmeldung erhältst du nach der Anmeldung zur Akademie.
 
 ### <a name="kurzvorträge"></a> Was sind die „MHN-Kurzvorträge“?
-Neben weltklasse Forscher:innen wollen wir auch denjenigen einen Platz im Programm bieten, die das noch werden wollen! Aufgrund unserer Wurzeln als studentisches Mitmachnetzwerk reservieren wir extra Slots für Jung-Akademiker:innen, in denen du das Thema deiner Bachelorarbeit oder deines letzten coolen Referats endlich mal einem externen Publikum vorstellen könnt! Zwanzig Minuten lang gehört das Mikro dir und danach hast du noch weitere zehn Minuten, um dich den Fragen des Publikums zu stellen – die gemäß der „MHN-Kurzvorträge“-Definition wohlwollender ausfallen.
+Neben weltklasse Forscher:innen wollen wir auch denjenigen einen Platz im Programm bieten, die das noch werden wollen! Aufgrund unserer Wurzeln als studentisches Mitmachnetzwerk reservieren wir extra Slots für Jung-Akademiker:innen, in denen du das Thema deiner Bachelorarbeit oder deines letzten coolen Referats endlich mal einem externen Publikum vorstellen kannst! Zwanzig Minuten lang gehört das Mikro dir und danach hast du noch weitere zehn Minuten, um dich den Fragen des Publikums zu stellen – die gemäß der „MHN-Kurzvorträge“-Definition wohlwollender ausfallen.
 
-### <a name="mitmachen"></a> Ich möchte einen MHN-Kurzvortrag halten oder etwas zum Bunten Abend beitragen. Wie melde ich mich dafür an?
-Bei der Anmeldung zur Akademie kannst du einfach ein entsprechendes Kästchen anklicken und wirst dann von der Koordinatorin des Bunten Abends bzw. dem Programmteamleiter zu weiteren Details kontaktiert.
+### <a name="mitmachen"></a> Ich möchte einen MHN-Kurzvortrag halten oder beim MHN-Taskmaster beitragen. Wie melde ich mich dafür an?
+Bei der Anmeldung zur Akademie kannst du einfach ein entsprechendes Kästchen anklicken und wirst dann vom Taskmaster-Team bzw. dem Programmteamleiter zu weiteren Details kontaktiert.
 
 ### <a name="drumherum"></a> Was wird auf der Akademie neben dem Programm geboten?
 Vor allem viele Gespräche mit interessanten Menschen! Die findet man abends im Foyer der Jugendherberge oder in der Lounge, einem gemütlichen Raum mit Luftmatratzen, Sofas, Decken und Kissen. Freunde von Brett- und Rollenspielen treffen sich im Spielezimmer, Leseratten versorgen sich am Büchertauschtisch und beim Bücherschaulaufen mit neuem Stoff. Beim MHN-Taskmaster stellen sich die Teilnehmer:innen 2023 erstmals den verrückt-kreativen Aufgaben des Taskmasters! Fast immer gibt es eine MHN-Kunstausstellung im Foyer, die sich am Akademiethema orientiert.
@@ -113,11 +113,11 @@ Zusätzlich zum (wissenschaftlichen) Vortrags- und Workshopprogramm mit Bezug zu
 
 ## Unterkunft
 ### <a name="übernachten"></a> Wo kann ich übernachten?
-Bei der Anmeldung kannst du gegen einen kleinen Aufpreis die Übernachtung in der Jugendherberge dazu buchen und eine Zimmerpräferenz angeben. Wir empfehlen die Übernachtung in der Jugendherberge, um auch die Abendstunden und Essenszeiten zum Netzwerken nutzen zu können und die kleinen Aufgaben, die jede teilnehmende Person übernimmt, leichter in den Tag zu integrieren. Natürlich kannst du dir eigenverantwortlich eine Unterkunft außerhalb der Jugendherbere organisieren. Das kann die für dich bessere Lösung sein, wenn du z. B. sehr geräuschempfindlich ist und trotzdem immer frisch und ausgeschlafen sein möchtest. Eine Jugendherberge ist und bleibt eine Jugendherberge.
+Bei der Anmeldung kannst du gegen einen kleinen Aufpreis die Übernachtung in der Jugendherberge dazu buchen und eine Zimmerpräferenz angeben. Wir empfehlen die Übernachtung in der Jugendherberge, um auch die Abendstunden und Essenszeiten zum Netzwerken nutzen zu können und die kleinen Aufgaben, die jede teilnehmende Person übernimmt, leichter in den Tag zu integrieren. Natürlich kannst du dir eigenverantwortlich eine Unterkunft außerhalb der Jugendherbere organisieren. Das kann die für dich bessere Lösung sein, wenn du z. B. sehr geräuschempfindlich bist und trotzdem immer frisch und ausgeschlafen sein möchtest. Eine Jugendherberge ist und bleibt eine Jugendherberge.
 
 ### <a name="bett"></a> Muss ich Bettwäsche und Handtücher mitbringen? Was brauche ich sonst noch?
 
-Bettwäsche stellt die Jugendherberge zur Verfügung. Handtücher musst du selbst mitbringen. Auch Hausschuhe sind empfehlenswert. Und Ohrstöpsel, wenn du sehr geräuschempfindlich ist oder deine Zimmernachbarn lauter schlafen.
+Bettwäsche stellt die Jugendherberge zur Verfügung. Handtücher musst du selbst mitbringen. Auch Hausschuhe sind empfehlenswert. Und Ohrstöpsel, wenn du sehr geräuschempfindlich bist oder deine Zimmernachbarn lauter schlafen.
 
 ### <a name="zimmer2"></a> Wie viele Leute sind in einem Mehrbettzimmer?
 
@@ -142,6 +142,7 @@ Ersetze in der Adresse "beispiel@mind-akademie.de" bitte "beispiel" durch die en
 * für das Programmteam: Ersetze `beispiel` durch `programm`
 * für die Gesamtleitung: Ersetze `beispiel` durch `akademieleitung`
 * für die Teilnehmendenbetreuung: Ersetze `beispiel` durch `anmeldung`
+
 Das Postfach der Teilnehmendenbetreuung wird erst nach Anmeldebeginn regelmäßig geleert.
 
 ### <a name="steuer"></a> Kann ich die Akademie von der Steuer absetzen?
@@ -157,3 +158,8 @@ Bisher nicht. Melde dich gerne bei der Akademieleitung, wenn du die Genehmigungs
 ## <a name="aenderungen"></a> Änderungen an dieser Seite
 
 * v1.0-2023-07-01 - Erste Veröffentlichung der FAQ 2023
+* v1.1-2023-07-17 - Änderungen
+    * <a href="#f14"> Gibt es eine Teilnahmebescheinigung?</a>
+    * <a href="#kinder"> Kann ich meine Kinder mitbringen?</a>
+    * <a href="#extras"> Brauche ich darüber hinaus noch Geld?</a>
+    * <a href="#mitmachen">Ich möchte einen MHN-Kurzvortrag halten oder beim MHN-Taskmaster beitragen. Wie melde ich mich dafür an?</a>
